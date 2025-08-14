@@ -4,7 +4,7 @@
 
 # The Best Code is the Code You Don't Have to Write
 
-The current AI boom is a gold rush for developers. New models and services appear weekly, promising unprecedented capabilities. But with this excitement comes a hidden cost that keeps engineers up at night: **API churn**.
+The current AI boom is a gold rush for developers. New models and services appear weekly, promising unprecedented capabilities. But with this excitement comes a hidden cost that keeps engineers up at night: **Ecosystem Instability**.
 
 Which hot new vector database do you bet on? What happens when that startup gets acquired, pivots, or shuts down? Or, more commonly, what happens when they release v2 of their API and suddenly your entire application, which was state-of-the-art just six months ago, is broken?
 
