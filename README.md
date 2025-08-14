@@ -306,9 +306,8 @@ if __name__ == "__main__":
 """
 If you run into:
 
-```
 ❌ FATAL ERROR: Unrecognized pipeline stage name: '$rankFusion', full error: {'ok': 0.0, 'errmsg': "Unrecognized pipeline stage name: '$rankFusion'", 'code': 40324, 'codeName': 'Location40324', '$clusterTime': {'clusterTime': Timestamp(1755181535, 2), 'signature': {'hash': b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 'keyId': 0}}, 'operationTime': Timestamp(1755181535, 2)}
-```
+
 Here is why:
 
 The $rankFusion aggregation stage is a newer feature, currently only supported in MongoDB 8.1+
